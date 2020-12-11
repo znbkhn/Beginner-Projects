@@ -2,15 +2,48 @@
 <html lang="en">
 <html>
 <head>
-<title> Hello World!</title>
+  <title> Hello World!</title>
 </head>
 <body>
-<h1> This is the main heading </h1>
+  <h1> Welcome to the layout of a basic website </h1>
 <p> This is the main body of the website </p>
-  <div>
-  <p> The < div > element separates the HTML document into sections. I personally find that it helps me add structure to my pages, and group similar elements together in one place. </p>
-  </div>
-  <h2> To create a subtitle on a document, use the tag < h2 > </h2>
-  <h3> To create a smaller subtitle on a document, use the tag < h3 >, and so on </h3>
+
+<div>
+    <p> 
+    To create the main heading, be sure to use the  <em><strong>"h1"</em></strong> tag
+    </p>
+    
+    <p> 
+    If you want to display a block of text, be sure to use the <em><strong>"p"</em></strong> tag
+    </p> 
+
+    <p>
+    The <em><strong>"div"</em></strong> element separates the HTML document into sections. I personally find that it helps me add structure to my pages, and group similar elements together in one place. 
+        </p> 
+
+    </p>
+</div>
+
+<div  id="Subtitles"> 
+<p>
+The <em><strong>"id"</em></strong> element in the "div" tag helps to identify what you've grouped & where. E.g. Div <em><strong>id</em></strong>="category"
+        </p> 
+    <h2> To create a subtitle on a document, use the tag <em><strong>"h2"</em></strong> </h2>
+    <h3> To create a smaller subtitle on a document, use the tag <em><strong>"h3"</em></strong>, and so on </h3>
+</div>
+
+<div id="Span">
+    <p> The <em><strong>"span"</em></strong> tag is similar to the "div" tag in that it targets specific pieces of content, however <em><strong>"span"</em></strong> is used for inline content as opposed to large blocks of text
+        <p>
+    To create line breaks in your HTML code, use the <em><strong>"br"</em></strong> tag. 
+    
+    <br><br>
+    For example, take the text "O Romeo, Romeo, wherefore art thou Romeo?"
+              <br><br>
+
+   To create a line break, format the line in this way: "O Romeo, Romeo,<em><strong>"br"</em></strong><em><strong>"br"</em></strong> wherefore art thou Romeo?"
+    </p>
+</div>
+
 </body>
 </html>
