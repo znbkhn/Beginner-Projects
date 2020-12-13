@@ -10,18 +10,16 @@
 
 <div>
     <p> 
-    To create the main heading, be sure to use the  <em><strong>"h1"</em></strong> tag
+To create the main heading, be sure to use the  <em><strong>"h1"</em></strong> tag
     </p>
     
     <p> 
-    If you want to display a block of text, be sure to use the <em><strong>"p"</em></strong> tag
+If you want to display a block of text, be sure to use the <em><strong>"p"</em></strong> tag
     </p> 
 
     <p>
-    The <em><strong>"div"</em></strong> element separates the HTML document into sections. I personally find that it helps me add structure to my pages, and group similar elements together in one place. 
-        </p> 
-
-    </p>
+The <em><strong>"div"</em></strong> element separates the HTML document into sections. I personally find that it helps me add structure to my pages, and group similar elements together in one place. 
+    </p> 
 </div>
 
 <div  id="Subtitles"> 
@@ -45,5 +43,20 @@ The <em><strong>"id"</em></strong> element in the "div" tag helps to identify wh
     </p>
 </div>
 
+<div id="Lists">
+You can use an unordered list tag <em><strong>"ul"</em></strong> to create a list of items in no particular order.
+<br>
+You can then add individual items to the list using the <em><strong>"li"</em></strong> tag.
+<br>
+For example, to create a shopping list, do the following:
+  <h3>Groceries</h3><p>Use the <strong>"h3"</strong> tag for this subtitle.
+  To create the list, open the bracket with <strong>"ul"</strong>, then create a new line with the term <strong>"li"</strong> to describe the items.
+  </p>
+<ul>
+<li>Apples</li>
+<li>Oranges</li>
+<li>Pears</li>
+</ul>
+</div>
 </body>
 </html>
