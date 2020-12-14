@@ -43,7 +43,7 @@ The <em><strong>"id"</em></strong> element in the "div" tag helps to identify wh
     </p>
 </div>
 
-<div id="Lists">
+<div id="Unordered Lists">
 You can use an unordered list tag <em><strong>"ul"</em></strong> to create a list of items in no particular order.
 <br>
 You can then add individual items to the list using the <em><strong>"li"</em></strong> tag.
@@ -53,10 +53,44 @@ For example, to create a shopping list, do the following:
   To create the list, open the bracket with <strong>"ul"</strong>, then create a new line with the term <strong>"li"</strong> to describe the items.
   </p>
 <ul>
-<li>Apples</li>
-<li>Oranges</li>
-<li>Pears</li>
+  <li>Apples</li>
+  <li>Oranges</li>
+  <li>Pears</li>
 </ul>
+</div>
+<div id="Lists">
+  You can create an ordered list tag <em><strong>"ol"</em></strong> to create a numbered list.
+<ol>
+  <li> Gold </li>
+  <li> Silver </li>
+  <li> Bronze </li>
+</ol>
+</div>
+<div id="Images & Videos">
+  <h3> Images </h3>
+  To add an image, use the tag <em><strong>"img src ="</em></strong> and insert the image URL
+<br>
+  You can also use image alts to be more inclusive by adding a description of the image. This will be useful for screen reading software & non-visually impared users if the image doesn't load
+  Example:
+<img src="https://unsplash.com/photos/_gqq9pEVuEI alt="hot chocolate with marshmallows & gingerbread cookies decorated to look like snowflakes all on one plate on a bed">
+<br>
+  img src ="photo link" alt="image decription"
+<br>
+  img src does not require a closing tag
+<br>
+
+<h3> Videos </h3>
+  Similar to the img tag, the "video" tag also requires an additional src attribute. Unlike img however, "video" does require a closing tag.
+<br>
+  After the src attribute, width & height attributes are used to set the size of the video displayed in the browser. The controls attribute instructs the browser to include basic video controls: pause, play and skip.
+<br>
+  The layout looks like this:
+<br>
+  video src="myVideo.mp4" width="320" height="240" controls
+  <br>
+  /video
+<br>
+The text, “Video not supported”, between the opening and closing video tags will only be displayed if the browser is unable to load the video, you must add this text in manually in between the opening and closing "video" tags
 </div>
 </body>
 </html>
