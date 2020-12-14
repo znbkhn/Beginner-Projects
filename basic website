@@ -4,6 +4,7 @@
 <head>
   <title> Hello World!</title>
 </head>
+
 <body>
   <h1> Welcome to the layout of a basic website </h1>
 <p> This is the main body of the website </p>
@@ -58,6 +59,7 @@ For example, to create a shopping list, do the following:
   <li>Pears</li>
 </ul>
 </div>
+
 <div id="Lists">
   You can create an ordered list tag <em><strong>"ol"</em></strong> to create a numbered list.
 <ol>
@@ -65,6 +67,7 @@ For example, to create a shopping list, do the following:
   <li> Silver </li>
   <li> Bronze </li>
 </ol>
+
 </div>
 <div id="Images & Videos">
   <h3> Images </h3>
@@ -91,6 +94,7 @@ For example, to create a shopping list, do the following:
   /video
 <br>
 The text, “Video not supported”, between the opening and closing video tags will only be displayed if the browser is unable to load the video, you must add this text in manually in between the opening and closing "video" tags
+
 </div>
 </body>
 </html>
