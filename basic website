@@ -94,7 +94,27 @@ For example, to create a shopping list, do the following:
   /video
 <br>
 The text, “Video not supported”, between the opening and closing video tags will only be displayed if the browser is unable to load the video, you must add this text in manually in between the opening and closing "video" tags
-
 </div>
+
+<br>
+<h3> Linking To Other Websites </h3>
+  <p> Create an anchor element <em><strong>"a"</em></strong> and attach it to a <em>href attribute</em>. This will ink to the address of the file (often a URL). The layout for this is the following:
+<br>
+  <strong>a href ="URL"</strong> <strong>Link description & end tag</strong>
+<a href="https://en.wikipedia.org/wiki/Zaynab_(name)"> Wikipedia definition of my name</a>
+<br>
+<p> To open things in a new window, use the <em><strong>target="_blank"</em></strong> attribute at the end of the quotation marks:
+<a href="https://en.wikipedia.org/wiki/Zaynab_(name)"target="_blank"> Wikipedia definition of my name that opens in a new window</a></p>
+
+<br>
+<h3> Linking To Relative Pages </h3>
+<p> If you're linking to local files, the href link will look like this: <em><strong>"./File Name.html"</em></strong></p>
+
+<br>
+<h3> Image Links </h3>
+<p> Nest the <em><strong>img src="#" alt="#"</em></strong> within the a href tag: <a href="https://images.unsplash.com/photo-1508987427770-ddeed3ad1da2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=3108&q=80" target="_blank"><img src="https://images.unsplash.com/photo-1508987427770-ddeed3ad1da2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=3108&q=80" width="320" height="120" alt="milkweed seed"/></a>
+<a href="https://images.unsplash.com/photo-1555676928-f338d0892c0b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=975&q=80" target="_blank"><img src="https://images.unsplash.com/photo-1555676928-f338d0892c0b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=975&q=80" width="320" height"120" alt="neon sign"/></a>
+<a href="https://images.unsplash.com/photo-1608093310256-d8289063a5e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80" target="_blank"><img src="https://images.unsplash.com/photo-1608093310256-d8289063a5e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80" width="320" height="120" alt="white woman on phone"/></a>
+</p>
 </body>
 </html>
