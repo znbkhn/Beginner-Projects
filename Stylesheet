@@ -6,6 +6,10 @@ h2{
   color: #5C5C5C
 }
 
+.destination {
+  text-transform: uppercase;
+}
+
 h5 {
   color: DarkBlue
 }
