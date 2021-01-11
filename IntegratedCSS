@@ -11,7 +11,7 @@
   <h1>My Travel Blog</h1>
   <h5>Zen</h5>
   
-  <p style="font-family: arial"> Join me as I hop from one place to another, exploring all the sights the world has to offer</p>
+  <p> Join me as I hop from one place to another, exploring all the sights the world has to offer</p>
   
   <h2 class="destination">1. Gibraltar </h2>
    <div class="description"> An overseas British territory, I first learnt about its existence when I met one of my best friends in University who happened to be from there. 5 years later, we finally made it there with perfect timing (the first national lockdown was announced a month later). It's a very small place, we managed to do the entire strait <strong>AND</strong> cross the Spanish border in one day!
