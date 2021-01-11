@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="./style.css" type="text/css" rel="stylesheet">
+  <title>Including CSS On A Basic Website</title>
+</head>
+
+<body>
+  <img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dHJhdmVsfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"alt="man sitting at the edge of a pier while surrounded by mountains"/>
+  
+  <h1>My Travel Blog</h1>
+  <h5>Zen</h5>
+  
+  <p style="font-family: arial"> Join me as I hop from one place to another, exploring all the sights the world has to offer</p>
+  
+  <h2 class="destination">1. Gibraltar </h2>
+   <div class="description"> An overseas British territory, I first learnt about its existence when I met one of my best friends in University who happened to be from there. 5 years later, we finally made it there with perfect timing (the first national lockdown was announced a month later). It's a very small place, we managed to do the entire strait <strong>AND</strong> cross the Spanish border in one day!
+   <br>
+   The weather was incredible, the perfect balance of warm and breezy (which if you're British you know is rare). Its relatively inexpensive as well which is always great.
+</body>
+</html>
