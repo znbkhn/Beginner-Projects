@@ -1,21 +1,60 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="./style.css" type="text/css" rel="stylesheet">
+  <img src="https://images.unsplash.com/photo-1506765515384-028b60a970df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2098&q=80"alt="sunset" class="center" height="300"/>
+  
+  <h1 class="bold-capitalize" id="large-title">My Travel Blog</h1>
+  
+  <link href="./style.css" type="text/css" rel="stylesheet">
+
+  <title>Including CSS On A Basic Website</title>
+  
+  <link href="./style.css" type="text/css" rel="stylesheet">
+  
   <title>Including CSS On A Basic Website</title>
 </head>
 
 <body>
-  <img src="https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dHJhdmVsfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"alt="man sitting at the edge of a pier while surrounded by mountains"/>
+  <h2 id="smol">Zen</h2>
   
-  <h1>My Travel Blog</h1>
-  <h5>Zen</h5>
-  
-  <p> Join me as I hop from one place to another, exploring all the sights the world has to offer</p>
+  <p class="bio"> Join me as I hop from one place to another, exploring all the sights the world has to offer</p>
   
   <h2 class="destination">1. Gibraltar </h2>
    <div class="description"> An overseas British territory, I first learnt about its existence when I met one of my best friends in University who happened to be from there. 5 years later, we finally made it there with perfect timing (the first national lockdown was announced a month later). It's a very small place, we managed to do the entire strait <strong>AND</strong> cross the Spanish border in one day!
    <br>
    The weather was incredible, the perfect balance of warm and breezy (which if you're British you know is rare). Its relatively inexpensive as well which is always great.
+   
+   <h5>Best Attractions:</h5>
+   <ul>
+   <li> The Gibraltar rock </li>
+   <li> Gibraltar/Spanish border </li>
+   <li> Dolphin cruise </li>
+   <li> Saliha's house </li>
+   </ul>
+   
+<h2 class="destination">2. Karachi </h2>
+ <div class="description"> I last visited in February for a week. I quickly realised this was the perfect length of time to spend in Pakistan because there is zero chance you'll end up in unnecessary family drama. 
+ <br>
+ In & out, super quick- just how it should be. The weather was great too, a welcome change since we always go in August at the height of Monsoon season-February was much more mild and breezy.
+ 
+ <h5>Best Attractions:</h5>
+ <ul>
+   <li> The airport so you can go home </li>
+   <li>Hyperstar mall</li>
+   </ul>
+   
+   <h2 class="destination">3. Rome </h2>
+<div class="description"> I visited Rome the day my Master's began (great timing right?) with my two best friends from undergrad and while Rome itself was a bit of a shithole, the experience of being with my friends was one I really enjoyed.
+<br>
+  So British of me I know but I was so excited to visit Sephora, I ended up getting a blush which I admittedly will probably never finish but at least I have it. Consumerism wins again...
+ 
+ <h5>Best Attractions:</h5>
+ <ul>
+ <li> The Colosseum (duh!) </li>
+ <li> The pyramid tomb thingy </li>
+ <li> The Vatican </li>
+ <li> The Trevi Fountain </li>
+ </ul>
+ 
 </body>
 </html>
