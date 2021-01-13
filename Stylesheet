@@ -1,15 +1,51 @@
-h1 {
-  color: #333333
+h1.bold-capitalize {
+  color: #5e646e;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+#large-title{
+  font-size: 50px;
+  text-align: center;
+}
+
+#smol {
+  font-size: 20px;
+  text-align: center;
+}
+
+.bio {
+    text-align: center;
 }
 
 h2{
   color: #5C5C5C
 }
 
-.destination {
-  text-transform: uppercase;
+.destination{
+   text-transform: uppercase;
 }
 
-h5 {
-  color: DarkBlue
+.description h5 {
+  color: #5a6578;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+h1,
+h2 {
+  font-family: Times;
 }
