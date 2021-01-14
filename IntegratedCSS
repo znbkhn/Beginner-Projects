@@ -24,7 +24,17 @@
    <br>
    The weather was incredible, the perfect balance of warm and breezy (which if you're British you know is rare). Its relatively inexpensive as well which is always great.
    
-   <h5>Best Attractions:</h5>
+  <br>
+     <figure>
+      
+      <img src="https://images.unsplash.com/photo-1559415096-cc3543f4f080?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80" class="gib-image">
+   
+   <figcaption> Europa Point, Gibraltar. We visited the lighthouse, and even got to see Morocco which is an hour away by boat!
+   </figcaption>
+       
+       </figure> 
+   
+   <h5 class="caption">Best Attractions:</h5>
    <ul>
    <li> The Gibraltar rock </li>
    <li> Gibraltar/Spanish border </li>
@@ -37,7 +47,15 @@
  <br>
  In & out, super quick- just how it should be. The weather was great too, a welcome change since we always go in August at the height of Monsoon season-February was much more mild and breezy.
  
- <h5>Best Attractions:</h5>
+ <br>
+     <figure>
+     <img src="https://images.unsplash.com/photo-1598959626848-a16d4d0b2564?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80" class="kar-image">
+      <figcaption> The Arabian Sea, Karachi. One of the few beautiful spots in an ugly city.
+   </figcaption>
+       
+       </figure> 
+     
+ <h5 class="caption">Best Attractions:</h5>
  <ul>
    <li> The airport so you can go home </li>
    <li>Hyperstar mall</li>
@@ -48,7 +66,14 @@
 <br>
   So British of me I know but I was so excited to visit Sephora, I ended up getting a blush which I admittedly will probably never finish but at least I have it. Consumerism wins again...
  
- <h5>Best Attractions:</h5>
+  <br>
+     <figure>
+     <img src="https://images.unsplash.com/photo-1548585742-1df49e753a83?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2112&q=80" class="it-image">
+     <figcaption> Vatican City, Rome. Great gelato - shame about the weather.
+   </figcaption>
+            </figure> 
+
+ <h5 class="caption">Best Attractions:</h5>
  <ul>
  <li> The Colosseum (duh!) </li>
  <li> The pyramid tomb thingy </li>
