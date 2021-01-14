@@ -49,3 +49,23 @@ h1,
 h2 {
   font-family: Times;
 }
+
+.gib-image,
+.kar-image,
+.it-image {
+max-width: 50%;
+  height: auto;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  font-style: italic;
+    text-align: center;
+}
+
+.caption {
+  opacity:0.85;
+  color: black;
+}
