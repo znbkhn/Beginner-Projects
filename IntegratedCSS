@@ -6,10 +6,10 @@
   <h1 class="bold-capitalize" id="large-title">My Travel Blog</h1>
   
   <link href="./style.css" type="text/css" rel="stylesheet">
-
-  <title>Including CSS On A Basic Website</title>
   
-  <link href="./style.css" type="text/css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@200&display=swap" rel="stylesheet">
+  
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@100&display=swap" rel="stylesheet">
   
   <title>Including CSS On A Basic Website</title>
 </head>
