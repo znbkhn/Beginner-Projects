@@ -1,5 +1,6 @@
 h1.bold-capitalize {
   color: #5e646e;
+  font-family: Fraunces;
 }
 
 .center {
@@ -32,9 +33,10 @@ h1.bold-capitalize {
 }
 
 .navigation ul{
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 0px;
   text-align: center;
+  font-family: 'Fraunces', serif;
 }
 
 .navigation li{
@@ -71,7 +73,7 @@ max-width: 50%;
   margin-left: auto;
   margin-right: auto;
   border: 1px dotted #5e646e;
-  order-radius: 15px;
+  border-radius: 15px;
 }
 
 figcaption {
