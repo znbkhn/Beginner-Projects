@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<form>
+  <h1> What Resources Helped You Understand Privilege? </h1>
+  
+  <p>Feel free to use this form to list any resources (books, shows, podcasts, etc) that helped you understand your privilege and how to use it to help others </p>
+  
+  <section class="Gender">
+        <span> How do you identify?</span>
+          <input type="radio" id="Male" name="gender" value="Male">
+          <label for="gender">Male</label>
+          <input type="radio" id="Female" name="gender" value="Female">
+          <label for="gender">Female</label>
+          <input type="radio" id="Neither" name="gender" value="Neither">
+          <label for="gender">Neither</label>
+          <input type="radio" id="Prefer not to answer" name="gender" value="Prefer not to answer">
+          <label for="gender">Prefer not to answer</label>
+        <br>
+        
+                <span> What Resource Helped You?</span>
+        <input id="Resource" input type="text">
+        <textarea id="extra" name="extra" rows="3" cols="40" placeholder="Books, Podcasts, Shows, Youtube Videos, etc" class="placeholder-hide-on-focus">
+          </textarea>
+</form>
+</html>
