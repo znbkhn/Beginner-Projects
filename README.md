@@ -53,13 +53,12 @@
 <div id="Span">
     <p> The <em><strong>"span"</em></strong> tag is similar to the "div" tag in that it targets specific pieces of content, however <em><strong>"span"</em></strong> is used for inline content as opposed to large blocks of text
         <p>
-    To create line breaks in your HTML code, use the <em><strong>"br"</em></strong> tag. 
+		To create line breaks in your HTML code, use the <em><strong>"br"</em></strong> tag. </p>
     
     <br><br>
-    For example, take the text "O Romeo, Romeo, wherefore art thou Romeo?"
+    <p>For example, take the text "O Romeo, Romeo, wherefore art thou Romeo?"</p>
               <br><br>
-
-   To create a line break, format the line in this way: "O Romeo, Romeo,<em><strong>"br"</em></strong><em><strong>"br"</em></strong> wherefore art thou Romeo?"
+<p> To create a line break, format the line in this way: "O Romeo, Romeo,<em><strong>"br"</em></strong><em><strong>"br"</em></strong> wherefore art thou Romeo?"
     </p>
 </div>
 
