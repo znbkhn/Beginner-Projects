@@ -22,6 +22,7 @@
 
 <body>
   <h1> Welcome to the layout of a basic website </h1>
+	<h6>My first Github repository! I'll update as I go along but in essence, these are the structures required to build a standard website. </h6>
   <ul>
 <li><a href="#Subtitles">Subtitles</a></li>
 <li><a href="#Span">Span</a></li>
