@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+font-family: 'Righteous', cursive;
+}
+
+.header{
+   height: 500px;
+  width: 1500px;
+  background: linear-gradient(90deg, #c5d7bd 50%, #9fb8ad 50%);
+  position: relative;
+  align-items: center;
+ justify-content: center;
+  display: flex;
+ text-align: center;
+}
+
+p {
+ font-size: 130px;
+ background: linear-gradient(to right, #9fb8ad 50%, #c5d7bd 50%);
+     -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+}
+
+.laptop {
+  position: fixed;
+  color: #c5d7bd;
+  position: absolute;
+  margin-left: 775px;
+  margin-top: 20px;
+  width: 80px;
+  height: 55px;
+  border-radius: 15px;
+  border: solid 1px #c5d7bd;
+}
+
+.laptop:before {
+    position: fixed;
+  content: '';
+  position: absolute;
+  left: -8px;
+  bottom: -13px;
+  width: 95px;
+  height: 6px;
+  border-radius: 0 0 20px 20px;
+  border: solid 1px #c5d7bd;
+}
