@@ -7,3 +7,4 @@
 
 <h2>Structure</h2>
 <p> The structure of the website includes how to use elements like span, div, etc</p>
+<p>  </p>
