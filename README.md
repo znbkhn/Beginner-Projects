@@ -13,4 +13,4 @@
 
 <h2> Accessibility </h2>
 <p> Accessibility should be built into the foundation of a website</p>
-<p> By adding alt text, you can hellp screenreaders understand the format of as a website</p>
+<p> By adding alt text, you can help screenreaders understand the format of as a website</p>
