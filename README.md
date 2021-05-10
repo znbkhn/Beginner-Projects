@@ -16,4 +16,4 @@
 <p> By adding alt text, you can help screenreaders understand the format of as a website</p>
 
 <h2>Twitter Header</h2>
-<p> This was a fun project</p>
+<p> This was a fun project inspired by Prathkum where I wanted to create a custom Twitter header using vanilla CSS </p>
